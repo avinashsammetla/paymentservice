@@ -77,7 +77,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>apigateway</finalName>
+		<finalName>paymentservice</finalName>
 	</build>
 
 </project>
